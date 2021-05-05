@@ -1,2 +1,2 @@
-# Medicenter
- HTML5, CSS e JAVASCRIPT
+# medicenter
+ html5, css e js
